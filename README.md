@@ -1,29 +1,192 @@
+<div align="center">
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# Hi, I'm Huda Qasem 👋
 
-<h3 align="center">
-  Hi 👋, I'm Huda Qasem!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### .NET Backend Developer | C# | ASP.NET Core
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+Building clean, scalable, and reliable backend applications.
 
+<br>
 
-- 🏢 **SCU- FCI**
-  
-- 🌱 I’m currently learning **asp.net**
+<a href="https://www.linkedin.com/in/huda-qasem-348894254/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hudaqasem85@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 📫 How to reach me **hudaqasem85@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/huda-qasem-348894254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huda-qasem-348894254/" height="30" width="40" /></a>
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science graduate passionate about **Backend Development** and building web applications using the **.NET ecosystem**.
+
+- 💻 Focused on **C# and ASP.NET Core**
+- 🔧 Interested in building **RESTful APIs**
+- 🗄️ Working with **SQL Server and Entity Framework Core**
+- 🏗️ Applying **Clean Architecture and Design Patterns**
+- 🔐 Interested in **Authentication, Authorization, and API Security**
+- 🌱 Continuously improving my backend development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+- C#
+- ASP.NET Core
+- ASP.NET Core Web API
+- Entity Framework Core
+- LINQ
+- RESTful APIs
+- CQRS & MediatR
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudaqasem&show_icons=true&locale=en&layout=compact" alt="hudaqasem" /></p>
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</p>
+
+- Microsoft SQL Server
+- Database Design
+- Entity Framework Core
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio" />
+</p>
+
+- Git & GitHub
+- Postman
+- Visual Studio
+- Clean Architecture
+- Design Patterns
+- JWT Authentication
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce API
+
+A backend API for an e-commerce application, built using modern .NET technologies.
+
+**Technologies:**
+
+- ASP.NET Core Web API
+- C#
+- Entity Framework Core
+- SQL Server
+- ASP.NET Core Identity
+- JWT Authentication
+- Clean Architecture
+- Repository & Service Patterns
+- FluentValidation
+
+**Main Features:**
+
+- User Authentication and Authorization
+- Product Management
+- Shopping Cart
+- Wishlist
+- Address Management
+- Secure API Endpoints
+
+🔗 [Explore My Repositories](https://github.com/hudaqasem?tab=repositories)
+
+---
+
+### 📝 Examination System
+
+A backend-focused examination system designed to manage courses, exams, questions, and student results.
+
+**Main Features:**
+
+- User Management
+- Course Management
+- Exam Creation and Scheduling
+- Question Bank
+- Student Answers
+- Exam Grading
+- Result Tracking
+
+**Technologies:**
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- LINQ
+
+🔗 [View Examination System Repository](https://github.com/hudaqasem/Examination-System-)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced ASP.NET Core Web API
+- Clean Architecture
+- CQRS & MediatR
+- Authentication & Authorization
+- REST API Design
+- Database Optimization
+- Design Patterns
+- Scalable Backend Architecture
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hudaqasem&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudaqasem&layout=compact&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and connecting with other developers.
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/huda-qasem-348894254/">
+  <img src="https://img.shields.io/badge/LinkedIn-Huda%20Qasem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hudaqasem85@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+</div>
