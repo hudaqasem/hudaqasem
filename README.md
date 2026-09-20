@@ -45,7 +45,8 @@ Currently focused on improving my skills in **ASP.NET Core, backend architecture
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+       alt="SQL Server" width="45" height="45"/>
 </p>
 
 **SQL Server · Database Design · Entity Framework Core**
