@@ -1,192 +1,116 @@
 <div align="center">
 
-# Hi, I'm Huda Qasem 👋
+# Huda Qasem 👋
 
-### .NET Backend Developer | C# | ASP.NET Core
+### .NET Backend Developer
 
-Building clean, scalable, and reliable backend applications.
+**C# · ASP.NET Core · Web API · SQL Server**
+
+Building practical backend solutions with a focus on clean, maintainable code.
 
 <br>
 
 <a href="https://www.linkedin.com/in/huda-qasem-348894254/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:hudaqasem85@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a Computer Science graduate passionate about **Backend Development** and building web applications using the **.NET ecosystem**.
+I'm a **Computer Science graduate from Suez Canal University** with a focus on **Backend Development using .NET**.
 
-- 💻 Focused on **C# and ASP.NET Core**
-- 🔧 Interested in building **RESTful APIs**
-- 🗄️ Working with **SQL Server and Entity Framework Core**
-- 🏗️ Applying **Clean Architecture and Design Patterns**
-- 🔐 Interested in **Authentication, Authorization, and API Security**
-- 🌱 Continuously improving my backend development skills
+I enjoy building RESTful APIs, working with databases, and learning how to design applications that are clean, secure, and maintainable.
+
+Currently focused on improving my skills in **ASP.NET Core, backend architecture, authentication, and database design**.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Backend Development
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" />
 </p>
 
-- C#
-- ASP.NET Core
-- ASP.NET Core Web API
-- Entity Framework Core
-- LINQ
-- RESTful APIs
-- CQRS & MediatR
+**C# · ASP.NET Core · Web API · Entity Framework Core · LINQ · RESTful APIs · CQRS · MediatR**
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="45" />
 </p>
 
-- Microsoft SQL Server
-- Database Design
-- Entity Framework Core
+**SQL Server · Database Design · Entity Framework Core**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript
+**HTML · CSS · JavaScript**
 
-### Tools & Technologies
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" height="45" />
 </p>
 
-- Git & GitHub
-- Postman
-- Visual Studio
-- Clean Architecture
-- Design Patterns
-- JWT Authentication
+**Git · GitHub · Postman · Visual Studio · VS Code**
+
+### Architecture & Security
+
+**Clean Architecture · Repository Pattern · Unit of Work · Design Patterns · JWT · Role-Based Authorization**
 
 ---
 
-## 🚀 Featured Projects
+## Currently Learning
 
-### 🛒 E-Commerce API
-
-A backend API for an e-commerce application, built using modern .NET technologies.
-
-**Technologies:**
-
-- ASP.NET Core Web API
-- C#
-- Entity Framework Core
-- SQL Server
-- ASP.NET Core Identity
-- JWT Authentication
-- Clean Architecture
-- Repository & Service Patterns
-- FluentValidation
-
-**Main Features:**
-
-- User Authentication and Authorization
-- Product Management
-- Shopping Cart
-- Wishlist
-- Address Management
-- Secure API Endpoints
-
-🔗 [Explore My Repositories](https://github.com/hudaqasem?tab=repositories)
+* Advanced **ASP.NET Core Web API**
+* **Clean Architecture**
+* **CQRS & MediatR**
+* **Authentication & Authorization**
+* **JWT & Refresh Tokens**
+* **FluentValidation & AutoMapper**
+* **Database Design & Backend Architecture**
 
 ---
 
-### 📝 Examination System
+## Education
 
-A backend-focused examination system designed to manage courses, exams, questions, and student results.
-
-**Main Features:**
-
-- User Management
-- Course Management
-- Exam Creation and Scheduling
-- Question Bank
-- Student Answers
-- Exam Grading
-- Result Tracking
-
-**Technologies:**
-
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- LINQ
-
-🔗 [View Examination System Repository](https://github.com/hudaqasem/Examination-System-)
+**Bachelor of Computer Science**
+Suez Canal University · 2026
 
 ---
 
-## 📚 Currently Learning
+## Let's Connect
 
-- Advanced ASP.NET Core Web API
-- Clean Architecture
-- CQRS & MediatR
-- Authentication & Authorization
-- REST API Design
-- Database Optimization
-- Design Patterns
-- Scalable Backend Architecture
-
----
-
-## 📊 GitHub Statistics
+I'm always open to learning, collaborating, and connecting with other developers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hudaqasem&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudaqasem&layout=compact&hide_border=true" height="160"/>
+<a href="https://www.linkedin.com/in/huda-qasem-348894254/">
+  <img src="https://img.shields.io/badge/LinkedIn-Huda%20Qasem-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:hudaqasem85@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hudaqasem85%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and connecting with other developers.
 
 <br>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/huda-qasem-348894254/">
-  <img src="https://img.shields.io/badge/LinkedIn-Huda%20Qasem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:hudaqasem85@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
+*Thanks for visiting my profile.*
 
 </div>
